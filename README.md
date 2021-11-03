@@ -1,5 +1,7 @@
 ## Qt/SQLite
 
+![Screen Shot](md/photo_2021-11-04_01-44-54.jpg)
+
 ```
 Query: "SELECT Card.ID, Card.Qt, Nom.Nm FROM Card INNER JOIN Nom on Nom.ID = Card.Nom_ID ;"
 Result1: 
